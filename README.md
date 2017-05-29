@@ -1,1 +1,2 @@
 # qwg
+# Never stop learning!
